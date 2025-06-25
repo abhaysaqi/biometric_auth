@@ -1,16 +1,29 @@
-# biometric_auth
+# Flutter Project
 
-A new Flutter project.
+This is a Flutter application with biometric authentication and secure token storage.
 
-## Getting Started
+## 🚀 How to Run This Flutter Project
 
-This project is a starting point for a Flutter application.
+### 1. Clone the repository
+```bash
+git clone https://github.com/your-username/your-repo-name.git
+cd your-repo-name
+```
 
-A few resources to get you started if this is your first Flutter project:
+### 2. Get Flutter packages
+```bash
+flutter pub get
+```
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### 3. Run the app
+```bash
+flutter run
+```
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## ✅ Requirements
+
+- Flutter SDK installed (https://flutter.dev/docs/get-started/install)
+- Android Studio or Visual Studio Code
+- A device or emulator
